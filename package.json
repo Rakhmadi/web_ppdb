@@ -28,7 +28,7 @@
     },
     "dependencies": {
         "@chenfengyuan/vue-qrcode": "^1.0.2",
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "vuelidate": "^0.7.5"
     }
 }
